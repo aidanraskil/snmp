@@ -1,7 +1,6 @@
 {
     "name": "aidanraskil/snmp",
     "description": "Laravel package for manage snmp",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
