@@ -9,5 +9,15 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aidanraskil\\Snmp\\SnmpServiceProvider"
+            ],
+            "aliases": {
+                "Snmp": "Aidanraskil\\Snmp\\Facades"
+            }
+        }
+    }
 }
