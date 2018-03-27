@@ -8,7 +8,6 @@
             "email": "github@aidanraskil.bulc.club"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "extra": {
         "laravel": {
