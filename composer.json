@@ -9,6 +9,11 @@
         }
     ],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aidanraskil\\Snmp\\": "src"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
